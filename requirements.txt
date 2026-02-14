@@ -1,0 +1,7 @@
+streamlit
+spacy
+spacy-transformers
+torch
+pdfminer.six
+pandas
+plotly
